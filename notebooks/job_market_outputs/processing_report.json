@@ -1,0 +1,10 @@
+{
+  "source_file": "indian-job-market-dataset-2025.xlsx",
+  "source_table": "Sheet1",
+  "raw_rows": 97929,
+  "clean_rows": 97679,
+  "exact_duplicates": 247,
+  "duplicate_job_ids_removed": 250,
+  "usable_inr_salaries": 33362,
+  "jobs_with_skills": 97186
+}
